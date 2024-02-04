@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/sudiptodeyhime](https://www.linkedin.com/in/sudiptodeyhimel/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudiptodeyhime" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sudiptodeyhimel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudiptodeyhimel" height="30" width="40" /></a>
 <a href="https://instagram.com/__himu_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__himu_21" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sdh_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sdh_21" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sdh_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sdh_02" height="30" width="40" /></a>
